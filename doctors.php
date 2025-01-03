@@ -54,6 +54,11 @@ include 'header.php';
             <div class="hospital-list">
                 <p class="heading mb-3">Searching for the best doctors in India? Explore the Doctors List in India with Vaidam Health: Trusted Experts Offering World-Class Care, Exceptional Reviews, and Unmatched Excellence. Consult now for Instant Help.</p>
                 <?php include('doctor-list-item.php'); ?>
+                <?php include('doctor-list-item.php'); ?>
+                <?php include('doctor-list-item.php'); ?>
+                <?php include('doctor-list-item.php'); ?>
+                <?php include('doctor-list-item.php'); ?>
+                <?php include('doctor-list-item.php'); ?>
             </div>
             <div class="hospital-sidebar">
                 <div class="bg-primary p-4 rounded">
