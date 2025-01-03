@@ -329,3 +329,19 @@ footer{
 .text-primary{
     color: var(--primary) !important;
 }
+.border-light-blue{
+    border-color:#9eeaf9 !important;
+}
+.doctor-heading{
+display: flex;
+gap: 10px;
+}
+.doctor-heading span{
+    background-color: var(--secondary);
+    display: inline-block;
+    padding: 4px 8px;
+    font-size: 10px;
+    color: var(--heading);
+    border-radius:16px;
+    border: 1px solid #ccc;
+}
