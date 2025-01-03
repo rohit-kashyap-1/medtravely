@@ -344,7 +344,7 @@ gap: 10px;
     color: var(--heading);
     border-radius:16px;
     border: 1px solid #ccc;
-}
+} 
 
 .btn-primary{
     background-color: var(--primary) !important;
