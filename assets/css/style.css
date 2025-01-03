@@ -345,3 +345,13 @@ gap: 10px;
     border-radius:16px;
     border: 1px solid #ccc;
 }
+
+.btn-primary{
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+.btn-primary:hover{
+    background-color: var(--secondary) !important;
+    border-color: var(--secondary) !important;
+    color: #2c2c2c !important;
+}
