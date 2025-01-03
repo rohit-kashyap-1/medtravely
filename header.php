@@ -36,10 +36,10 @@
                         <a href="" class="nav-link active">Home</a>
                     </div>
                     <div class="menu-item">
-                        <a href="" class="nav-link ">Hostpitals</a>
+                        <a href="hospital-main.php" class="nav-link ">Hostpitals</a>
                     </div>
                     <div class="menu-item">
-                        <a href="" class="nav-link ">Doctors</a>
+                        <a href="doctor-main.php" class="nav-link ">Doctors</a>
                     </div>
                     <div class="menu-item">
                         <a href="" class="nav-link ">Patient Stories</a>
